@@ -1,0 +1,33 @@
+h1 {
+    color: white;
+    font-family:Arial, Helvetica;
+    font-size: 45px;
+
+}
+
+body {
+ background-color: rgb(26, 23, 23);
+ color: white;
+ font-size: 14px;
+ font-family: Arial, Helvetica;
+}
+
+img {
+    max-width: 100%; /* largura maxima da imagem */
+    height: auto; /* altura automática proporcional */
+    margin: 20px 0; /* margem superior */
+}
+
+/* estilo para links */
+a {
+    color: brown;
+    text-decoration: none; /* remove sublinhado padrão */
+}
+
+a:hover {
+    text-decoration: underline; /*sublinhado ao marcar o texto*/
+}
+
+form {
+    width: 100px;
+}

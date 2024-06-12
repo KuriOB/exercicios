@@ -4,7 +4,7 @@ h1 {
     font-size: 45px;
 
 }
-
+/*dark mode manual*/
 body {
  background-color: rgb(26, 23, 23);
  color: white;
@@ -31,3 +31,15 @@ a:hover {
 form {
     width: 100px;
 }
+
+.Bloco {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    transition: width 1s, height 1s, background-color 1s;
+  }
+  .Bloco:hover {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+  }

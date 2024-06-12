@@ -57,7 +57,7 @@ botaoForm.addEventListener('click', function() {
 })
 
 //exercício 5
-const blocoAmarelo = document.getElementById('blocoYellow');
+/*const blocoAmarelo = document.getElementById('Bloco');
   
 blocoAmarelo.addEventListener('mouseover', function() {
     blocoAmarelo.style.backgroundColor = 'blue';
@@ -65,4 +65,6 @@ blocoAmarelo.addEventListener('mouseover', function() {
 
   blocoAmarelo.addEventListener('mouseout', function() {
     blocoAmarelo.style.backgroundColor = 'yellow';
-  });
+  });*/
+
+  
